@@ -1,4 +1,14 @@
 class chao(){
 	public static void main(string args[])
-		system.out.println("chao :");
+		system.out.println("chao long:");
+}
+
+class chao(){
+	public static void main(string args[])
+		system.out.println("chao long:");
+}
+
+class chao(){
+	public static void main(string args[])
+		system.out.println("chao long:");
 }
